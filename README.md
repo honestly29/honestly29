@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a future software engineer with a huge interest in coding! I am currently learning JavaScrpit and improving my skills in Python.
+I am a future software engineer with a huge interest in coding! I am currently learning JavaScript and improving my skills in Python.
 
 
 😄 Pronouns: He/Him
