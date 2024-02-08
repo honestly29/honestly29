@@ -3,7 +3,6 @@
 I am a future software engineer with a huge interest in coding! I am currently learning JavaScript and improving my skills in Python.
 
 
-😄 Pronouns: He/Him
 <!--
 **honestly29/honestly29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
